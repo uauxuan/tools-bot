@@ -3,7 +3,6 @@ dist
 /cache
 /data
 /temp
-external
 
 .env.local
 
@@ -23,6 +22,8 @@ yarn-debug.log
 yarn-error.log
 tsconfig.tsbuildinfo
 
+.vscode
+koishi.yml
 .eslintcache
 .DS_Store
 *.suo
